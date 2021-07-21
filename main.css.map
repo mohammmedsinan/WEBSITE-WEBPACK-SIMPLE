@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/main.scss"],"names":[],"mappings":"AAAA,EACI,YACA,WACA,oD","file":"main.css","sourcesContent":["*{\r\n    padding: 0px;\r\n    margin: 0px;\r\n    box-sizing: border-box;\r\n}\r\n\r\n"],"sourceRoot":""}
